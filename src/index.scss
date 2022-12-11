@@ -1,0 +1,11 @@
+@import './scss/fonts';
+@import './scss/image';
+
+
+$back: rgb(5, 2, 0);
+$colorText: rgb(206, 192, 180);
+
+body{
+    font-family: 'Gilroy';
+    background-color: $back;
+}
